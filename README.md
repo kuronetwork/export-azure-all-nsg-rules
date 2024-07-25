@@ -7,7 +7,7 @@ This script is used to export Azure Network Security Group (NSG) rules to JSON f
 ### Usage
 
 #### Preparation
-Ensure you have the Azure CLI tool installed and configured, and you are logged in to your Azure account.
+For security and environment considerations, it is recommended to use Azure Cloud Shell to run this script. Alternatively, ensure you have the Azure CLI tool installed and configured, and you are logged in to your Azure account.
 
 #### Run the Script
 Execute the script to export all NSG rules:
